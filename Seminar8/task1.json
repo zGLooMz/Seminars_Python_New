@@ -1,0 +1,50 @@
+[
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7",
+    "object_type": "File",
+    "name": "run.py",
+    "size_in_bytes": 1102
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7",
+    "object_type": "File",
+    "name": "task_1.py",
+    "size_in_bytes": 2289
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7",
+    "object_type": "File",
+    "name": "task_2.py",
+    "size_in_bytes": 3003
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7",
+    "object_type": "File",
+    "name": "task_3.py",
+    "size_in_bytes": 4549
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 9935
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7\\__pycache__",
+    "object_type": "File",
+    "name": "task_1.cpython-311.pyc",
+    "size_in_bytes": 3061
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7\\__pycache__",
+    "object_type": "File",
+    "name": "task_2.cpython-311.pyc",
+    "size_in_bytes": 3849
+  },
+  {
+    "parent_directory": "H:\\PythonNew\\Seminars_Python_New\\Seminar7\\__pycache__",
+    "object_type": "File",
+    "name": "task_3.cpython-311.pyc",
+    "size_in_bytes": 3025
+  }
+]
